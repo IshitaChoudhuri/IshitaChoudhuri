@@ -1,16 +1,16 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Profession] from [Your Location].
+Welcome to my GitHub profile! I'm Ishita Choudhuri, a passionate Data Science Enthusiast from Shantiniketan(adobe of peace).
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=IshitaChoudhuri)
 
 ## About Me ℹ️
 
-- 🌱 I’m currently learning [Technology/Tool].
-- 💬 Ask me about [Your Area of Expertise].
-- 📫 How to reach me: [Your Email/Website/Other Contact Info].
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [Fun Fact About Yourself].
+- 🌱 I’m currently learning Machine Learning/ Data Science.
+- 💬 Ask me about my favourite language.
+- 📫 How to reach me: ishitachoudhuri3@gmail.com.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: Momo here! Did you know that I can eat my weight in momos in a single sitting? They're not just a food to me; they're a way of life! 🥟❤️.
 
 ## Languages and Tools 🛠️
 
@@ -21,13 +21,8 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Profession] fr
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub Stats 📊
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## Let's Connect 🤝
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishitachoudhuri/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_momoshita_)
 
